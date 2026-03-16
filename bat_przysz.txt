@@ -1,0 +1,8 @@
+python --version
+git --version
+uv --version
+code --version
+git clone https://github.com/AlexaDRS/python2-lab
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+powershell
+uv pip install numpy pandas matplotlib ipykernel jupyter
